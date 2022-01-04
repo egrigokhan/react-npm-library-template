@@ -1,8 +1,8 @@
-import AwesomeButton from './button.js'
+import MintButton from './MintButton.js'
 
 const returnLibrary = () => {
     return {
-        AwesomeButton: AwesomeButton
+        MintButton: MintButton
         // you can add here other components that you want to export
     }
 }

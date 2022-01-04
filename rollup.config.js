@@ -31,7 +31,7 @@ MODE.map((m) => {
         input: input,
         output: {
             // then name of your package
-            name: "react-awesome-buttons",
+            name: "shil-me-mint-button",
             file: `dist/index.${m.fomart}.js`,
             format: m.fomart,
             exports: "auto"
